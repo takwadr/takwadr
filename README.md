@@ -7,4 +7,4 @@
 📱 Currently diving into Flutter and mobile development, honing my skills every day<br/>
 🔧 Worked on multiple projects using Spring Boot and REST APIs<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takwadr&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takwadr)](https://github.com/anuraghazra/github-readme-stats)
+
