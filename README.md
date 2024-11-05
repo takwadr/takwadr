@@ -1,6 +1,5 @@
 ## Hi there, I'm Takwa Dridi 👋
 
-
 👩🏻‍💻 Software Engineer sharing my journey and growth in tech
 👩🏻‍🎓 Studied Software Engineer at [Polytech International University][https://pi.tn/en/], Tunisia
 🌱 Self-starter with two small businesses and a passion for design
