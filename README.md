@@ -1,6 +1,6 @@
 ## Hi there, I'm Takwa Dridi 👋
 
-👩🏻‍💻Studied Software Engineer at [Polytech International University][https://pi.tn/en/], Tunisia<br/>
+👩🏻‍💻Studied Software Engineer at [Polytech International University](https://pi.tn/en/), Tunisia<br/>
 🌱 Self-starter with two small businesses<br/>
 🎨 Crafting creative designs in Figma and Canva<br/>
 📱 Currently diving into Flutter and mobile development, honing my skills every day<br/>
